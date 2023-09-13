@@ -1,31 +1,47 @@
-# Weather-Application-with-API-by-using-python-GUI
+# Weather Application with Python GUI
 
-Features
-User-friendly GUI interface for easy interaction.
-Retrieves weather data from an API based on user input.
-Displays weather information such as temperature, humidity, wind speed, and description.
-Supports searching for weather data of various locations.
-Requirements
+## Description
 
-Enter the name of the location you want to retrieve weather information for in the provided input field.
+This Weather Application is built using Python and features a user-friendly Graphical User Interface (GUI) developed with Python Tkinter. It provides real-time weather information for user-specified locations by fetching data from a weather API. Additionally, it offers the functionality to save and retrieve weather data in a database for future reference.
 
-Click the "Get Weather" button to retrieve the weather data for the specified location.
+## Features
 
-The app will display the weather information including temperature, humidity, wind speed, and description.
+- **Weather Information**: Display current weather conditions, temperature, humidity, and more for user-specified locations.
+- **API Integration**: Fetch weather data from a weather API for accurate and up-to-date information.
+- **Database Storage**: Store and retrieve weather data for historical records.
+- **User-Friendly GUI**: An intuitive graphical interface for ease of use.
+- **Location Management**: Add and manage multiple locations for quick weather updates.
+- **Responsive Design**: Ensures the application looks and works well on different screen sizes.
+- **Customization**: Easily customize and expand the application's functionality.
 
-Repeat steps 3-5 to search for weather information for different locations.
+## Technologies Used
 
-Contributing
-Contributions to the Weather App are welcome. If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
+- Python
+- Python Tkinter (GUI)
+- Database Managment System
+- API
 
-When contributing, please ensure that:
+## Getting Started
 
-You describe your changes in detail.
-Your code follows the project's coding conventions.
-You test your changes thoroughly.
-License
+To run this Weather Application locally, follow these steps:
+
+1. Clone this repository to your local machine.
+2. Install the required Python libraries (if any) mentioned in the documentation.
+3. Run the application by executing the main Python script.
+
+
+## Contributions
+
+Contributions are welcome! If you want to contribute to this project.
+
+## License
+
 This project is licensed under the MIT License.
 
-Acknowledgements
-This Weather App was developed as a learning project and is not intended for production use.
-The app utilizes weather data from a third-party API.
+## Author
+
+- NILADRI CHATTERJEE
+
+## Acknowledgments
+
+- Thanks to OpenAPI for providing weather data.
