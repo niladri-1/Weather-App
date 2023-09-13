@@ -4,6 +4,8 @@
 
 This Weather Application is built using Python and features a user-friendly Graphical User Interface (GUI) developed with Python Tkinter. It provides real-time weather information for user-specified locations by fetching data from a weather API. Additionally, it offers the functionality to save and retrieve weather data in a database for future reference.
 
+![App Screenshot](https://github.com/niladri-1/Python-Weather-App-with-API/blob/main/Damo-Pic.png)
+
 ## Features
 
 - **Weather Information**: Display current weather conditions, temperature, humidity, and more for user-specified locations.
